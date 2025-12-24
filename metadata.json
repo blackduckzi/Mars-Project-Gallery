@@ -1,0 +1,5 @@
+{
+  "name": "MARS Project Gallery",
+  "description": "A high-fidelity WebGL gallery featuring a particle-based Christmas tree and project highlights from MARS, built with Three.js and Gemini AI.",
+  "requestFramePermissions": []
+}
